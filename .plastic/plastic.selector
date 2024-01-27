@@ -1,0 +1,4 @@
+repository "delphino_micaloski@delphino_micaloski@cloud"
+  path "/"
+    br "/main"
+    co "/main"
